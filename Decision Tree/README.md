@@ -1,0 +1,1 @@
+The program takes two arguments, a training file, and a test file.

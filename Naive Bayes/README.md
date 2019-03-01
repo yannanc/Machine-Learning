@@ -1,0 +1,1 @@
+Implement a Naive Bayes classifier to classify a political blog as being “liberal” or “conservative”.
